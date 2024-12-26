@@ -13,4 +13,5 @@ This implementation is based on [[IBM/MoLFormer]](https://github.com/IBM/molform
 - Python 3.10
 - Pytorch 2.3.1
 - Pytorch-lightning 2.2.4
+- Pytorch-fast-transformers 0.4.0
 - RDKit 2023.9.6
