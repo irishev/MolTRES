@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e17640d6-d04c-41ea-908e-da2d3ad5e92f)# MolTRES
+# MolTRES
 
 ### **MolTRES: Improving Chemical Language Representation Learning for Molecular Property Prediction \[EMNLP 2024]**
 Jun-Hyung Park, Yeachan Kim, Mingyu Lee, Hyuntae Park, and SangKeun Lee
